@@ -1,4 +1,4 @@
-# MyFitnessPal_Personal_Log_Analysis
+# MyFitnessPal Personal Log Analysis
 
 ## Overview
 
