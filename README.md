@@ -1,4 +1,4 @@
-# MyFitnessPal Personal Log Analysis
+# MyFitnessPal Personal Log Manager
 
 ## Overview
 
@@ -26,8 +26,6 @@ By leveraging **MySQL, Tableau, and CSV data exports**, this analysis aims to pr
   
 - **CSV Files** (for data import and export)
   
-- **Python** (for optional data processing with Pandas)
-
 ## How to Use
 
 1. Export your **MyFitnessPal** food log and weight data as **CSV files**.
@@ -48,6 +46,3 @@ By leveraging **MySQL, Tableau, and CSV data exports**, this analysis aims to pr
   
 - Improve data-driven decision-making for fitness and nutrition.
 
----
-
-Would you like additional sections, such as sample queries or Tableau dashboard previews? 🚀
