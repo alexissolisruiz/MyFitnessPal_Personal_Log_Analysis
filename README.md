@@ -4,7 +4,7 @@
 
 This project focuses on extracting, analyzing, and visualizing personal food logs and my own weight trends from **MyFitnessPal** for the year **2024**. 
 
-By leveraging **MySQL, Tableau, and CSV data exports**, this analysis aims to provide insights into dietary habits, calorie intake, and weight fluctuations over time. These are only a number of queries that I could have created to filter the data. 
+By leveraging **MySQL, Tableau, and CSV data exports**, this analysis aims to provide insights into dietary habits, calorie intake, and weight fluctuations over time. These are only a number of queries that I could have created to filter the data. To find visualization of these queries, head to my [Tableau Public]( https://public.tableau.com/app/profile/alexis.solis.ruiz/vizzes) profile!
 
 ## Features
 
