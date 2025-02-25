@@ -46,3 +46,5 @@ By leveraging **MySQL, Tableau, and CSV data exports**, this analysis aims to pr
   
 - Improve data-driven decision-making for fitness and nutrition.
 
+(LICENSE)
+
